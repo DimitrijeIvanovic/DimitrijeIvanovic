@@ -20,7 +20,7 @@ Full CRUD web app — catalog of characters/areas with search, sort, and role-ba
 ### Future projects
 
 [Book - App]
-**Book tracker app** — A personal project to track my reading: log books I'm currently reading, write reviews, rate what I've finished, and build my own to-read list. Building it with React to deepen my frontend skills this semester.
+**Book tracker app ** — A personal project to track my reading: log books I'm currently reading, write reviews, rate what I've finished, and build my own to-read list. Building it with React to deepen my frontend skills this semester.
 
 ** Company project (via AP Hogeschool)** — A full-stack project for an external company, assigned through school this semester. Details (company, tech stack) to follow once the project kicks off.
 
