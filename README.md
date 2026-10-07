@@ -8,7 +8,7 @@ Graduaat Programmeren student at AP Hogeschool (Antwerp, Belgium).
 
 ### Featured projects
 
-[GameHub]([https://github.com/DimitrijeIvanovic/IT-zo](https://github.com/DimitrijeIvanovic/GameHub)) | Game discovery platform (team project) — browse & compare games via the RAWG API, session-based auth, "Guess That Game" mode | TypeScript, Express, MongoDB, Docker 
+[GameHub]((https://github.com/DimitrijeIvanovic/GameHub)) | Game discovery platform (team project) — browse & compare games via the RAWG API, session-based auth, "Guess That Game" mode | TypeScript, Express, MongoDB, Docker 
 
 [project-webontwikkeling](https://github.com/DimitrijeIvanovic/project-webontwikkeling) 
 Full CRUD web app — catalog of characters/areas with search, sort, and role-based (admin/user) editing | TypeScript, Express, EJS, MongoDB |
