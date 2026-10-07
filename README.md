@@ -8,14 +8,14 @@ Graduaat Programmeren student at AP Hogeschool (Antwerp, Belgium).
 
 ### Featured projects
 
-[GameHub](https://github.com/DimitrijeIvanovic/IT-zo) | Game discovery platform (team project) — browse & compare games via the RAWG API, session-based auth, "Guess That Game" mode | TypeScript, Express, MongoDB, Docker 
+[GameHub]([https://github.com/DimitrijeIvanovic/IT-zo](https://github.com/DimitrijeIvanovic/GameHub)) | Game discovery platform (team project) — browse & compare games via the RAWG API, session-based auth, "Guess That Game" mode | TypeScript, Express, MongoDB, Docker 
 
 [project-webontwikkeling](https://github.com/DimitrijeIvanovic/project-webontwikkeling) 
 Full CRUD web app — catalog of characters/areas with search, sort, and role-based (admin/user) editing | TypeScript, Express, EJS, MongoDB |
 
-[Bib](https://github.com/DimitrijeIvanovic/bib) | Console library management app built around interfaces, abstract classes and custom exceptions | C# 
+[Bib](https://github.com/DimitrijeIvanovic/Bib_Project) | Console library management app built around interfaces, abstract classes and custom exceptions | C# 
 
-[Skivakantie-database](https://github.com/DimitrijeIvanovic/skivakantie-database) | Relational database project — views, stored procedures with transaction handling, and a stored function | MySQL |
+[Skivakantie-database](https://github.com/DimitrijeIvanovic/Skivakantie_database) | Relational database project — views, stored procedures with transaction handling, and a stored function | MySQL |
 
 ### Future projects
 
